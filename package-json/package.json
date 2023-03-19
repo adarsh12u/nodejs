@@ -1,0 +1,21 @@
+{
+  "name": "package-json",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "he"
+  ],
+  "author": "Adarsh gurjar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "color": "^4.2.3",
+    "colorful-console": "^1.0.0",
+    "colors": "^1.4.0"
+  }
+}
